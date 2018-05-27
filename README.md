@@ -9,6 +9,7 @@
 
 # Recall short cut keys
 1. ctrl-shift-# to commit quickly
+2. ctrl-f11 to run your sample project
 
 # References
 https://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/oxygen3a

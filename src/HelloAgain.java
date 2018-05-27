@@ -1,13 +1,11 @@
-
-// Here let's do this
 public class HelloAgain {
 	
-	// More comments
-	
+	// Defining a constant
 	final double a = 2.0;
+	
 	// Add some comments
 	public static void main(String[] args) {
-		System.out.println("Alright, here's the last commit exa");
+		System.out.println("Class is in session");
 	}
 	
 	

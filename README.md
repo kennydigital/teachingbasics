@@ -7,6 +7,7 @@
 6. Configure git within eclipse and repo's
 7. Understand the differences between commit, push
 8. Test
+
 # Recall short cut keys
 1. ctrl-shift-# to commit quickly
 2. ctrl-f11 to run your sample project

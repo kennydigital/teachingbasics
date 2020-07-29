@@ -16,7 +16,11 @@
 1. git clone repo.git
 2. git checkout branch name i.e. master or develop whatever devs are using
 3. git checkout -b feature i.e. feature can be JIRA name 
-4.
+4. git add <some file> this will start tracking files you will change
+5. git commit -am "comment" i.e this will label your changes you have made to the file
+6. git push origin feature i.e. same name as step 3
+7. go look at your repo in github and you should see your repo reflecting changes in that branch
+8. make some more changes
 
 
 # References
